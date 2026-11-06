@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OFileDiff
+Comment=Text, binary & directory diff with unified patch + apply
+Exec=OFileDiff
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OCore;
+Keywords=OFileDiff;owlsec;security;diff;patch;compare;
